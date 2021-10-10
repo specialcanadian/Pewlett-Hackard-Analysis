@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-## This analysis was done to determine how many roles will need to be filled as many of the older employees retire. A secondary objective is finding soon-to retire employees that can act as mentors for newer ones. 
+## This analysis was done for a fictional company to determine how many roles will need to be filled as many of the older employees retire. A secondary objective is finding soon-to retire employees that can act as mentors for newer ones. 
 
  
 ## Results
